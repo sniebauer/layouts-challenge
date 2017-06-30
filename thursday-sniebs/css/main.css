@@ -1,0 +1,44 @@
+header {
+	border: 1px darkgray;
+	width: 100%;
+	background: grey;
+	height: 200px;
+}
+
+main {
+	border: 1px darkgray;
+	background: grey;
+	width: 100%;
+	margin-top: 25px;
+
+	
+	
+}
+
+section	{
+	width: 70%;
+	border: 1px darkgray;
+	background: grey;
+	position: relative;
+	float: left;
+	height: 600px;
+}
+
+aside {
+	width: 25%;
+	border: 1px darkgray;
+	background: grey;
+	position: relative;
+	float: right;
+	height: 600px;
+}
+
+
+footer {
+	border: 1px darkgray;
+	background: grey;
+	width: 100%;
+	margin-top: 25px;
+	height: 100px;
+	clear: both;
+}

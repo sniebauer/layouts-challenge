@@ -1,0 +1,56 @@
+header {
+  border: 1px darkgray;
+  width: 100%;
+  background: grey;
+  height: 200px;
+}
+
+main {
+  border: 1px solid black;
+  background: grey;
+  width: 100%;
+  margin-top: 25px;
+  margin: auto;
+
+  
+}
+
+.panel1 {
+  width: 24%;
+  border: 1px solid black;
+  background: grey;
+  position: relative;
+  float: left;
+  height: 600px;
+  margin: 10px;
+}
+
+.panel2 {
+  width: 50%;
+  border: 1px solid black;
+  background: grey;
+  position: relative;
+  float: left;
+  height: 600px;
+   margin: 10px;
+}
+
+.panel3 {
+  width: 24%;
+  border: 1px solid black;
+  background: grey;
+  position: relative;
+  float: left;
+  height: 600px;
+   margin: 10px;
+}
+
+
+footer {
+  border: 1px darkgray;
+  background: grey;
+  width: 100%;
+  margin-top: 25px;
+  height: 100px;
+  clear: both;
+}
